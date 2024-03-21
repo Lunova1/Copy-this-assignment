@@ -1,0 +1,32 @@
+.header {
+    background-color: #666;
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+.centerbar{
+    display: flex;
+}
+
+.leftcol{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color: aquamarine;
+    width: 35vw;
+    height: 40vw;
+}
+
+.rightcol{
+padding: 10px;
+background-color: burlywood;
+width: 65vw;
+}
+.footer {
+    background-color: black;
+    color: white;
+    padding: 2px;
+    text-align: center;
+}
